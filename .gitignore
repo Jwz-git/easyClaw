@@ -24,5 +24,6 @@ dist-ssr
 *.sw?
 
 .venv
-history.json
+history/
 test.md
+workspace/
